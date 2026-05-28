@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>up_down</name>
+	<GroundOverlay>
+		<name>GMT Image Overlay</name>
+		<Icon>
+			<href>up_down.png</href>
+		</Icon>
+		<altitudeMode>clampToGround</altitudeMode>
+		<LatLonBox>
+			<north>38.501389</north>
+			<south>37.829167</south>
+			<east>-117.718056</east>
+			<west>-118.322222</west>
+		</LatLonBox>
+		<Region>
+		<LatLonAltBox>
+			<north>38.501389</north>
+			<south>37.829167</south>
+			<east>-117.718056</east>
+			<west>-118.322222</west>
+		</LatLonAltBox>
+		</Region>
+	</GroundOverlay>
+</Document>
+</kml>
