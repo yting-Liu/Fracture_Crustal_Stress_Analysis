@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>T64</name>
+	<visibility>0</visibility>
+	<Document>
+		<name>xphase_mean_ll</name>
+		<visibility>0</visibility>
+		<GroundOverlay>
+			<name>GMT Image Overlay</name>
+			<visibility>0</visibility>
+			<Region>
+				<LatLonAltBox>
+					<north>38.519444</north>
+					<south>37.776389</south>
+					<east>-117.718056</east>
+					<west>-118.341667</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+			</Region>
+			<Icon>
+				<href>/Users/ytliu/monte_cristo/data/T64/F2/intf_all/xphase_mean_ll.png</href>
+			</Icon>
+			<LatLonBox>
+				<north>38.519444</north>
+				<south>37.776389</south>
+				<east>-117.718056</east>
+				<west>-118.341667</west>
+			</LatLonBox>
+		</GroundOverlay>
+	</Document>
+	<Document>
+		<name>yphase_mean_ll</name>
+		<visibility>0</visibility>
+		<GroundOverlay>
+			<name>GMT Image Overlay</name>
+			<visibility>0</visibility>
+			<Region>
+				<LatLonAltBox>
+					<north>38.519444</north>
+					<south>37.776389</south>
+					<east>-117.718056</east>
+					<west>-118.341667</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+			</Region>
+			<Icon>
+				<href>/Users/ytliu/monte_cristo/data/T64/F2/intf_all/yphase_mean_ll.png</href>
+			</Icon>
+			<LatLonBox>
+				<north>38.519444</north>
+				<south>37.776389</south>
+				<east>-117.718056</east>
+				<west>-118.341667</west>
+			</LatLonBox>
+		</GroundOverlay>
+	</Document>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+</Folder>
+</kml>
